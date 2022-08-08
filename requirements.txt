@@ -1,0 +1,4 @@
+git+https://github.com/deepset-ai/haystack.git@0e8efdafa9e1b3e1a7096308b13760e5163f1439#egg=farm-haystack[faiss]sentence-transformers==2.2.2
+transformers==4.20.1
+datasets==2.4.0
+torch==1.12.1
